@@ -21,6 +21,7 @@ Reviewed: 30.01.2024
 # Reusable Assets
 - [Smarter Applications with AI Services](https://go.oracle.com/LP=138234?elqCampaignId=489428&src1=:so:ch:or:dg::::&SC=:so:ch:or:dg::::&pcode=WWMK230822P00010)
 - [Oracle AI Strategy and Platform webinar](https://go.oracle.com/LP=138234?elqCampaignId=489428&src1=:so:ch:or:dg::::&SC=:so:ch:or:dg::::&pcode=WWMK230822P00010)
+- [Oracle AI Cook](https://github.com/oracle-devrel/oci-ai-cook)
 
 # License
 
